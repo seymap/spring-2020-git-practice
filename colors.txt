@@ -1,4 +1,8 @@
 red
 pink
 green
+<<<<<<< HEAD
 orange
+=======
+black
+>>>>>>> d1edd3507724b85d32fb3a58afe4fc26396fbb6e
